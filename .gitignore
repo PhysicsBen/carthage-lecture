@@ -1,3 +1,7 @@
 env/
 .env
 *.zip
+songs_final.pkl
+openai_vecs.pkl
+model.w2v
+topic_model/
